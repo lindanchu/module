@@ -1,0 +1,16 @@
+{
+    "name": "linhdanchu/module",
+    "description": "laravel module",
+    "autoload": {
+        "psr-4": {
+            "Linhdanchu\\Module\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyen linh",
+            "email": "nglinhbk@gmail.com"
+        }
+    ],
+    "require": {}
+}
